@@ -1,1 +1,3 @@
-# Table of Content - Algorithm and Data Structure
+# Table of Content
+
+## Algorithms and Data Structure

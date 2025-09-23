@@ -1,3 +1,5 @@
 # Table of Content
 
-Machine Learning (ML)
+## Machine Learning (ML)
+
+[Gradient Descent](./GDescent.md)
