@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/jupyter-book/mystmd-quickstart
+  github: https://github.com/chungenyu6/johnny_ai_interview_prep_2026
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
     
 site:
