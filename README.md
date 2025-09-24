@@ -1,5 +1,6 @@
 # HOME
 
-Welcome to Johnny's Interview Preparation Page!
+> Chung-En Johnny Yu's Website for 2026 ML/AI Interview Preparation
 
-[Here is our online website](https://chungenyu6.github.io/johnny_ai_interview_prep_2026/).
+
+[Link to our online website](https://chungenyu6.github.io/johnny_ai_interview_prep_2026/).
