@@ -10,4 +10,4 @@ For example,
 https://colab.research.google.com/github/chungenyu6/johnny_ai_interview_prep_2026/blob/main/02-LLM/test_notebook.ipynb
 ```
 
-https://colab.research.google.com/github/chungenyu6/johnny_ai_interview_prep_2026/blob/main/02-LLM/test_notebook.ipynb
+https://colab.research.google.com/github/chungenyu6/johnny_ai_interview_prep_2026/blob/main/04-BQ/test_notebook.ipynb
