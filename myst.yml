@@ -10,6 +10,7 @@ project:
   exclude: 
     - README.md
     - 00-*/**
+    - my-note/**
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   # toc:
   #   - file: web-page/home.md
