@@ -2,4 +2,4 @@
 
 ## Large Language Model (LLM)
 
-[Tokenization](./01-tokenization/tokenization.ipynb)
+[Tokenization](./01-tokenization.ipynb)
