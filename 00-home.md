@@ -11,6 +11,7 @@ The notes are created based on the assumption of readers having basic knowledge 
 The codes are mainly tested on Google Colab's environment.
 
 ### Update
+- @2025/10/18 - Update page: `LLM/Architecture - GPT`.
 - @2025/10/09 - Update page: `LLM/Architecture - GPT`.
 - @2025/10/06 - Add page: `LLM/Architecture - GPT`.
 - @2025/10/04 - Update page: `LLM/Attention`.
